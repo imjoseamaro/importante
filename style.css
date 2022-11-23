@@ -1,0 +1,15 @@
+
+body {
+    font-family: 'Loved by the King', cursive;
+  }
+  
+  #canvas {
+    margin-left: calc(50% - 75px);
+    margin-top: calc(10% - 75px);
+  }
+  
+  h2.titulo {
+    text-align: center;
+    font-size: 60px;
+    margin-top: -50px;
+  }
